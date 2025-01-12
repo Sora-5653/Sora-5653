@@ -1,6 +1,6 @@
 -Hi, I’m @Sora-5653, Aka sora3.
 
--I’m interested in C++, python, and machine learning.
+-I’m interested in rust, python, and machine learning.
 
 -How to reach me? => eddy.forever5653@gmail.com, s_5653 on discord.
 
