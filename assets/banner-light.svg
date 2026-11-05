@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="sora3 — Sora-5653">
+<style>
+.disp{font-family:"Avenir Next","Futura","Segoe UI",system-ui,sans-serif;font-weight:700;letter-spacing:-2px}
+.mono{font-family:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace}
+.ja{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif}
+.drift1{animation:drift 60s linear infinite}
+.drift2{animation:drift 90s linear infinite reverse}
+.tw{animation:tw 4s ease-in-out infinite alternate}
+.mark{animation:bob 3.2s ease-in-out infinite alternate}
+@keyframes drift{from{transform:translateX(-80px)}to{transform:translateX(80px)}}
+@keyframes tw{from{opacity:.25}to{opacity:1}}
+@keyframes bob{from{transform:translateY(-3px)}to{transform:translateY(3px)}}
+@media (prefers-reduced-motion:reduce){.drift1,.drift2,.tw,.mark{animation:none}}
+</style>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#4f8fd6"/><stop offset="55%" stop-color="#9cc6ee"/><stop offset="100%" stop-color="#e9f3fb"/></linearGradient>
+<clipPath id="r"><rect width="1200" height="300" rx="18"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="300" fill="url(#sky)"/>
+
+<circle cx="930" cy="88" r="34" fill="#ffffff" opacity="0.35"/><circle cx="930" cy="88" r="22" fill="#fffaf0"/>
+<g class="drift1"><g transform="translate(560 262) scale(1.2)" fill="#ffffff" opacity="0.85"><ellipse cx="0" cy="0" rx="60" ry="18"/><ellipse cx="-22" cy="-12" rx="28" ry="20"/><ellipse cx="18" cy="-16" rx="32" ry="24"/></g><g transform="translate(860 236) scale(0.9)" fill="#ffffff" opacity="0.85"><ellipse cx="0" cy="0" rx="60" ry="18"/><ellipse cx="-22" cy="-12" rx="28" ry="20"/><ellipse cx="18" cy="-16" rx="32" ry="24"/></g></g>
+<g class="drift2"><g transform="translate(560 60) scale(0.7)" fill="#ffffff" opacity="0.85"><ellipse cx="0" cy="0" rx="60" ry="18"/><ellipse cx="-22" cy="-12" rx="28" ry="20"/><ellipse cx="18" cy="-16" rx="32" ry="24"/></g><g transform="translate(760 150) scale(0.55)" fill="#ffffff" opacity="0.85"><ellipse cx="0" cy="0" rx="60" ry="18"/><ellipse cx="-22" cy="-12" rx="28" ry="20"/><ellipse cx="18" cy="-16" rx="32" ry="24"/></g></g>
+<text x="64" y="92" class="ja" font-size="30" fill="#2f5684">空</text>
+<text x="104" y="92" class="mono" font-size="14" fill="#2f5684" letter-spacing="3">SORA · 5653</text>
+<text x="58" y="190" class="disp" font-size="104" fill="#0f2747">sora<tspan fill="#ff7a45">3</tspan></text>
+<text x="64" y="228" class="mono" font-size="16" fill="#2f5684">rust · python · machine learning</text>
+<line x1="1092" y1="40" x2="1092" y2="260" stroke="#2f5684" stroke-width="1.5"/>
+<line x1="1092" y1="260.0" x2="1110" y2="260.0" stroke="#2f5684" stroke-width="1.5"/><text x="1118" y="264.0" class="mono" font-size="12" fill="#2f5684">0k</text><line x1="1092" y1="246.2" x2="1100" y2="246.2" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="232.5" x2="1100" y2="232.5" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="218.8" x2="1100" y2="218.8" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="205.0" x2="1110" y2="205.0" stroke="#2f5684" stroke-width="1.5"/><text x="1118" y="209.0" class="mono" font-size="12" fill="#2f5684">2k</text><line x1="1092" y1="191.2" x2="1100" y2="191.2" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="177.5" x2="1100" y2="177.5" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="163.8" x2="1100" y2="163.8" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="150.0" x2="1110" y2="150.0" stroke="#2f5684" stroke-width="1.5"/><text x="1118" y="154.0" class="mono" font-size="12" fill="#2f5684">4k</text><line x1="1092" y1="136.2" x2="1100" y2="136.2" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="122.5" x2="1100" y2="122.5" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="108.8" x2="1100" y2="108.8" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="95.0" x2="1110" y2="95.0" stroke="#2f5684" stroke-width="1.5"/><text x="1118" y="99.0" class="mono" font-size="12" fill="#2f5684">6k</text><line x1="1092" y1="81.2" x2="1100" y2="81.2" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="67.5" x2="1100" y2="67.5" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="53.8" x2="1100" y2="53.8" stroke="#2f5684" stroke-width="1"/><line x1="1092" y1="40.0" x2="1110" y2="40.0" stroke="#2f5684" stroke-width="1.5"/><text x="1118" y="44.0" class="mono" font-size="12" fill="#2f5684">8k</text>
+<g class="mark"><path d="M1086 104.5 l-12 -7 v14 z" fill="#ff7a45"/>
+<text x="1068" y="108.5" text-anchor="end" class="mono" font-size="13" font-weight="700" fill="#0f2747">5,653 m</text></g>
+<text x="1092" y="282" text-anchor="middle" class="mono" font-size="10" fill="#2f5684" letter-spacing="2">ALT</text>
+</g>
+</svg>
